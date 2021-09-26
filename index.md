@@ -8,12 +8,12 @@
 - [X] Finish this lab
 - [X] Swag
 
-## Here's a little bit about me [:smiling_imp:]
+## Here's a little bit about me
 
 I am a fourth year Computer Science major!!
 
 ### [Me as a programmer:](#me-as-a-programmer)
-I just got back from Tokyo doing an internship with Rakuten. 
+I just got back from Tokyo doin)g an internship with Rakuten. 
 ###### *Favorite Languages:*
 1. Java
 2. Swift
