@@ -8,7 +8,7 @@
 - [X] Finish this lab
 - [X] Swag
 
-## Here's a little bit about me :smiling_imp:
+## Here's a little bit about me [:smiling_imp:]
 
 I am a fourth year Computer Science major!!
 
