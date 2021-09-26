@@ -6,7 +6,7 @@
 - [X] Wake up
 - [X] Not throw up
 - [X] Finish this lab
-- [ ] 
+- [X] Swag
 
 ## Here's a little bit about me :smiling_imp:
 
